@@ -1,10 +1,10 @@
 # almanac-beta
 
-##TODO
+## TODO
 -Create tables in Cassandra, store some information
 -Fix internet DC bug
 -Complete Jsoup queries
 
-##Done
+## Done
 -Connect to Cassandra, create a keyspace
 -First Jsoup query
