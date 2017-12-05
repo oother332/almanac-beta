@@ -1,13 +1,23 @@
 # almanac-beta
 
 ## TODO
--Create tables in Cassandra, store some information
-
--Fix internet DC bug
 
 -Complete Jsoup queries
+
+-Create full schema
+
+-Create queries
+
+-Make the frontend
+
+-Connect Frontend to Backend
+
 
 ## Done
 -Connect to Cassandra, create a keyspace
 
 -First Jsoup query
+
+-Create Tables
+
+-Populate the table
